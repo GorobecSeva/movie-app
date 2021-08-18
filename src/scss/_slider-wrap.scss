@@ -1,0 +1,27 @@
+.slider {
+  margin-top: 40px;
+  li.slick-active button::before {
+    color: white;
+  }
+  ul li button {
+    &:before {
+      font-size: 10px;
+      color: white;
+    }
+  }
+  button {
+    z-index: 1; 
+  }
+  &-wrap {
+    width: 100%;
+    display: flex;
+    margin-right: 50px;
+    outline: none;
+    img {
+      border-radius: 15px;
+      width: 100%;
+      height: 100%;
+      
+    }
+  }
+}

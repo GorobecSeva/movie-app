@@ -1,0 +1,63 @@
+.search {
+  margin-top: 50px;
+  height: auto;
+  h2 {
+    margin-bottom: 20px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+  }
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    width: 100%;
+    margin-bottom: 30px;
+    img {
+      border-radius: 10px;
+      width: auto;
+      height: auto;
+    }
+    &-description {
+      width: 55%;
+      h4 {
+        color: #fff;
+        font-size: 17px;
+        font-family: 'Montserrat', sans-serif;
+        span {
+          color: #14d344;
+          font-size: 18px;
+          font-family: 'Montserrat', sans-serif;
+        }
+      }
+      p  {
+        color: #fff;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: normal;
+        span {
+          font-weight: bold;
+          color: #14d344;
+          font-size: 18px;
+          font-family: 'Montserrat', sans-serif;
+        }
+      };
+    }
+  }
+  .reset-search {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    button {
+      padding: 10px;
+      font-size: 18px;
+      background: #28105F;
+      color: #fff;
+      cursor: pointer;
+      border-radius: 10px;
+      border: none;
+      outline: none;
+      &:hover {
+        background: #341a72;
+      }
+    }
+  }
+}

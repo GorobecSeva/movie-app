@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #100E19;
+}
+.container {
+  padding: 0px 100px;
+}
+
+@import './header.scss';
+@import './content.scss';
+@import './slider-wrap.scss';
+@import './film-item.scss';
+@import './search.scss';
+@import './loading.scss';

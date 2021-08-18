@@ -1,0 +1,34 @@
+{
+  "films": [
+    {
+      "name": "Довод",
+      "released": 2020,
+      "janre": "Боевики",
+      "imageUrl": "https://s5.vcdn.biz/static/f/2630297111/image.jpg/pt/r350x500x4"
+    },
+    {
+      "name": "Плохие парни навсегда",
+      "released": 2020,
+      "janre": "Комедии",
+      "imageUrl": "https://s2.vcdn.biz/static/f/2066157281/image.jpg/pt/r350x500x4"
+    },
+    {
+      "name": "Гренландия",
+      "released": 2020,
+      "janre": "Боевики",
+      "imageUrl": "https://s4.vcdn.biz/static/f/2567932231/image.jpg/pt/r350x500x4"
+    },
+    {
+      "name": "Джуманджи: Новый уровень",
+      "released": 2020,
+      "janre": "Комедии",
+      "imageUrl": "https://s6.vcdn.biz/static/f/2032558161/image.jpg/pt/r350x500x4"
+    },
+    {
+      "name": "Отпетые мошенницы",
+      "released": 2019,
+      "janre": "Комедии",
+      "imageUrl": "https://s9.vcdn.biz/static/f/1758195711/image.jpg/pt/r350x500x4"
+    }
+  ]
+}
